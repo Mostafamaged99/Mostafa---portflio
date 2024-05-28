@@ -45,7 +45,7 @@ h6 {
   color: var(--text-color);
 }
 .home {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
     url(../images/3.jpg);
   background-position: center center;
   background-size: cover;
