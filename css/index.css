@@ -65,7 +65,7 @@ h6 {
   .checkBtn{
         margin-bottom: 50px !important; 
       }
-  body {
+  .slider {
     background-color: var(--main-bg-color) !important;
   }
   .slider swiper-slide .slide-box {
@@ -82,7 +82,7 @@ h6 {
   .checkBtn{
         margin-bottom: 50px !important;
     }
-  body {
+  .slider {
     background-color: var(--main-bg-color) !important;
   }
   .slider swiper-slide .slide-box {
@@ -99,7 +99,7 @@ h6 {
    .checkBtn{
         margin-bottom: 50px !important;
     } 
-  body {
+  .slider {
     background-color: var(--main-bg-color) !important;
   }
   .slider swiper-slide .slide-box {
@@ -116,7 +116,7 @@ h6 {
    .checkBtn{
       margin-bottom: 50px !important; 
     } 
-  body {
+  .slider {
     background-color: var(--main-bg-color) !important;
     margin: 50px 0 !important ;
   }
