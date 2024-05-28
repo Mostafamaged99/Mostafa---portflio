@@ -65,17 +65,26 @@ h6 {
     .checkBtn{
         width: 50% !important;
     }
+    .slide-box{
+      height: 100% !important;
+    }
 }
 @media only screen and (max-width: 600px){
 	/*Big smartphones [426px -> 600px]*/
     .checkBtn{
         width: 100% !important;
     }
+    .slide-box{
+      height: 100% !important;
+    }
 }
 @media only screen and (max-width: 425px){
 	/*Small smartphones [325px -> 425px]*/
     .checkBtn{
         width: 100% !important;
+    }
+    .slide-box{
+      height: 100% !important;
     }
 }
 
